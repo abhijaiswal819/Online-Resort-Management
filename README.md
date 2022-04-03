@@ -1,0 +1,2 @@
+# Online-Resort-Management
+This is a resort management system the controls the complete resort information, which includes  customer information, room information and staff. This information is controlled and managed by  admin. Admin has the privilege to and or remove customer, staff as well as the rooms. Customer can visit the site and make a pre booking for a room by entering basic information like  name, phone number, email id, nationality and selecting room type, no. of adults and children’s, and  adding check-in and checkout , arrival time.
